@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DeutschLerner</string>
+    <string name="infoText">Enter the number of the most common words you want to practice with. There are %1$d words.
+    </string>
+    <string name="number">Number</string>
+    <string name="outOfRangeWarning">Hey! Trying to crash the app? \n I told you there are just %1$d words.</string>
+    <string name="secondWarning">Persistent one, are you? I can do this all day.</string>
+    <string name="thirdWarning">You do not see your mistake, do you? \n Perhaps get a math app first.</string>
+    <string name="zeroReally">You want to practice with 0 words? \n Am I a joke to you?</string>
+    <string name="enterNumber">Please enter number.</string>
+</resources>
